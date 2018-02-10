@@ -19,7 +19,7 @@ public class Main{
                 int attacknum = sc.nextInt();
                 if (attacknum <= 0 || attacknum > h1.attackCounter()) {
                     System.out.println("1‚©‚ç"+ h1.attackCounter()  
-                        + "‚Ü‚Å‚Ì"”š‚ğ“ü—Í‚µ‚Ä‚­‚¾‚³‚¢);
+                        + "‚Ü‚Å‚Ì”š‚ğ“ü—Í‚µ‚Ä‚­‚¾‚³‚¢");
                     continue;
                 }
                 break;
