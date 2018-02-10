@@ -2,7 +2,7 @@ import java.util.*;
 
 public class Main{
     public static void main(String args){
-        Human h1 = new Human("name", 100);//–¼‘O,Hp‚ğ‰Šú•Ï”
+        Human h1 = new Human("name", 100);//–¼‘O,hp‚ğ‰Šú•Ï”
         Enemy e1 = new Enemy("name", 100);//–¼‘O,hp‚ğ‰Šú•Ï”
 
         Human.equipAttack(new NormalAttack());//‹Z‚ğ‚½‚¹‚é
